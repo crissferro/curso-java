@@ -1,11 +1,12 @@
+// 'use strict'
 //VARIABLES
 //Una variable es un contenedor de informacion.
 
 var pais = "Espana";
 var continente = "Europa";
 var antiguedad = "2019";
-var pais_y_continente = pais+''+continente;
-
+var pais_y_continente = pais + '' + continente;
+let prueba = "hola";
 
 
 pais = "Mexico";
